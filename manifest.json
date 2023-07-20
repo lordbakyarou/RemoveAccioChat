@@ -5,7 +5,7 @@
   "description": "A Chrome extension to remove elements from a specific website.",
   "content_scripts": [
     {
-      "matches": ["https://course.acciojob.com/*"],
+      "matches": ["https://course.acciojob.com/idle*"],
       "js": ["remove.js"]
     }
   ],
