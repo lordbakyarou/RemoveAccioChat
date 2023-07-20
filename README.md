@@ -22,9 +22,10 @@ The Element Remover extension uses a content script that runs on the Accio Job w
 
 ## Screenshots 📸
 
- Use git pull https://github.com/lordbakyarou/RemoveAccioChat to download the extension - 
+ Use git clone https://github.com/lordbakyarou/RemoveAccioChat to download the extension - 
 
-![image](https://github.com/lordbakyarou/RemoveAccioChat/assets/70631103/83a8de35-6447-48b1-aaba-bdcb9bce760c)
+![image](https://github.com/lordbakyarou/RemoveAccioChat/assets/70631103/b0e5bcce-82c8-4faf-b2bd-e9e2e0e1a917)
+
 
  Top Right enable it - 
 
