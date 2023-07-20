@@ -1,10 +1,10 @@
-# Element Remover Chrome Extension
+# Element Remover Chrome Extension 😎
 
-## Description
+## Description 🚀
 
-Element Remover is a Chrome extension that allows you to remove specific elements from the Accio Job website (https://course.acciojob.com/). This extension enhances your browsing experience by removing a particular chat element that you find distracting.
+Element Remover is a Chrome extension that allows you to remove specific elements from the Accio Job website (https://course.acciojob.com/). This extension enhances your browsing experience by removing a particular chat element that you find distracting. 🙌
 
-## Installation
+## Installation 📦
 
 To install the Element Remover Chrome extension, follow these steps:
 
@@ -12,13 +12,26 @@ To install the Element Remover Chrome extension, follow these steps:
 
 2. Open Google Chrome and navigate to `chrome://extensions/` in the address bar.
 
-3. Toggle the "Developer mode" switch in the top right corner.
+3. Toggle the "Developer mode" switch in the top right corner. 🛠️
 
-4. Click on the "Load unpacked" button and select the directory where you cloned or downloaded the repository. This will load the extension into Chrome.
+4. Click on the "Load unpacked" button and select the directory where you cloned or downloaded the repository. This will load the extension into Chrome. 🚀
 
-## How it Works
+## How it Works 🔍
 
 The Element Remover extension uses a content script that runs on the Accio Job website. The content script looks for a specific element with the CSS selector "#crisp-chatbox > div > a > span.cc-imbb.cc-qfnu" and removes it after 5 seconds of page load.
+
+## Screenshots 📸
+Use git pull https://github.com/lordbakyarou/RemoveAccioChat to download the extension - 
+![image](https://github.com/lordbakyarou/RemoveAccioChat/assets/70631103/83a8de35-6447-48b1-aaba-bdcb9bce760c)
+
+Top Right enable it - 
+![image](https://github.com/lordbakyarou/RemoveAccioChat/assets/70631103/74d99e0a-9b19-4887-a1cf-93eff957eb56)
+
+Unload pacakges - 
+![image](https://github.com/lordbakyarou/RemoveAccioChat/assets/70631103/653b740b-255e-4139-a2ca-bc5bf66a3ca2)
+
+Now open accio site
+
 
 ## Contributions
 
