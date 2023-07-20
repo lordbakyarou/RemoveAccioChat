@@ -30,7 +30,7 @@ Top Right enable it -
 Unload pacakges - 
 ![image](https://github.com/lordbakyarou/RemoveAccioChat/assets/70631103/653b740b-255e-4139-a2ca-bc5bf66a3ca2)
 
-Now open accio site
+Now if you open any question you wont see the chat option. And you submits will be distractions free ❤️
 
 
 ## Contributions
